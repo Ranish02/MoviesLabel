@@ -8,6 +8,7 @@ export default function Movies({ movie }) {
             </div>
             <div>
                 <img src={movie.Poster}
+                    alt=""
                 />
             </div>
             <div>
