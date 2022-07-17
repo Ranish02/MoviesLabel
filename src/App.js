@@ -4,7 +4,7 @@ import './App.css';
 import SearchIcon from './search.svg'
 import Movies from "./Movies";
 // 754cd9ba
-const API_URL = 'http://www.omdbapi.com?apikey=754cd9ba';
+const API_URL = 'https://www.omdbapi.com?apikey=754cd9ba';
 //same data below 
 //const movie1 = {
 //   "Title": "Avengers: Infinity War",
